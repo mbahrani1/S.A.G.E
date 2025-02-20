@@ -1,2 +1,2 @@
 # S.A.G.E
-Computer Vision Project : Semantic analysis of Age , gender and emotion using OpenCV
+Computer Vision Project : Semantic analysis of Age , Gender and Emotion using OpenCV
